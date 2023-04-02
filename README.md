@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Eren İncesu. I'm a mechatronics engineer student. I love coding and i'm trying learning new programming languagues every day. 
+I'm Eren İncesu. I'm a mechatronics engineering student. I love coding and i'm improving my skills every day. 
 
 - 🔭 I’m currently working on arduino, mobile app development
 - 🌱 I’m currently learning flutter,swift.
